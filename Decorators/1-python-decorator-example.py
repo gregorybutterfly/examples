@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """ A very simple example of how to use decorators to add additional functionality to your functions. """
 
 
